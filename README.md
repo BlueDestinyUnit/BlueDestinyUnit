@@ -1,5 +1,7 @@
 ### 안녕하세요 신입 개발자 조성환입니다. 👋
 
+### 
+![GitHub 로고](https://github.com/fluidicon.png)
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
