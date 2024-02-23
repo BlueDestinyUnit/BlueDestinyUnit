@@ -8,6 +8,7 @@ Eclipse, InteliJ, Visual Studio Code
 
 ### Projects
 sudoku  -> HTML, CSS, JavaScript
+
 bakelap ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080 -> Spring boot, Mybatis etc..
 
 <!--
