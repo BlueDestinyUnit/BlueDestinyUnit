@@ -1,7 +1,15 @@
 ### 안녕하세요 신입 개발자 조성환입니다. 👋
 
 ### Tech
-![HTML](https://img.icons8.com/color/48/html-5--v1.png) ![css](https://img.icons8.com/color/48/css3.png), javascript ![java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png) ![mysql](https://img.icons8.com/color/48/mysql-logo.png) , Spring, JSP, Srping boot, Mybatis,
+HTML, CSS, JavaScript, JAVA, MYSQL, Spring boot, Mybatis, JSP
+
+### Tools
+Eclipse, InteliJ, Visual Studio Code
+
+### Projects
+sudoku  -> HTML, CSS, JavaScript
+bakelap ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080 -> Spring boot, Mybatis etc..
+
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
