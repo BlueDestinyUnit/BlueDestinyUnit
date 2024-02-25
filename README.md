@@ -1,22 +1,40 @@
-### 안녕하세요 신입 개발자 조성환입니다. 👋
+# 안녕하세요! 신입 개발자 조성환입니다. 👋
 
-### Contact us
-whtjdghks03@naver.com
+## Contact Information
+- Email: whtjdghks03@naver.com
 
-### Tech
-HTML, CSS, JavaScript, JAVA, MYSQL, Spring boot, Mybatis, JSP
+## 기술 스택
+- HTML
+- CSS
+- JavaScript
+- JAVA
+- MYSQL
+- Spring Boot
+- MyBatis
+- JSP
 
-### Tools
-Eclipse, InteliJ, Visual Studio Code
+## 개발 도구
+- Eclipse
+- IntelliJ
+- Visual Studio Code
 
-## Projects
-[sudoku](https://github.com/BlueDestinyUnit/sudoku)
+## 프로젝트
 
-### 빵 쇼핑몰 프로젝트
-BakeLab : [사이트](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
-[메뉴얼](./BakeLab.pdf)
-[Repositroy](https://github.com/BlueDestinyUnit/BakeLab)
-DB 관계도, 프로젝트 기본틀 제작, 상품 등록, 장바구니, 결제,  검색을 담당했습니다.
+### Sudoku 게임 프로젝트
+GitHub Repository: [sudoku](https://github.com/BlueDestinyUnit/sudoku)
+
+### 빵 쇼핑몰 프로젝트 - BakeLab
+- [사이트 바로가기](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
+- [메뉴얼 다운로드](./BakeLab.pdf)
+- [GitHub Repository](https://github.com/BlueDestinyUnit/BakeLab)
+
+#### 프로젝트 역할
+- DB 관계도 설계
+- 프로젝트 기본 틀 제작
+- 상품 등록 기능 구현
+- 장바구니 기능 구현
+- 결제 기능 구현
+- 검색 기능 구현
 
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
