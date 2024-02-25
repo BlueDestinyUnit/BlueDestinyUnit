@@ -10,8 +10,7 @@ Eclipse, InteliJ, Visual Studio Code
 sudoku :  [Repository](https://github.com/BlueDestinyUnit/sudoku)
 
 BakeLap : [사이트](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
-
-          [Repositroy](https://github.com/BlueDestinyUnit/BakeLap)
+[Repositroy](https://github.com/BlueDestinyUnit/BakeLap)
 
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
