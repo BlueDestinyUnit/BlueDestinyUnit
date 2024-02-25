@@ -24,7 +24,7 @@
 - [GitHub Repository](https://github.com/BlueDestinyUnit/sudoku)
 #### 사용한 기술 -> HTML, CSS, JS
 
-### - 빵 쇼핑몰 프로젝트 - BakeLab (개인 프로젝트)
+### - 빵 쇼핑몰 프로젝트 - BakeLab (팀 프로젝트)
 - [사이트 바로가기](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
 - [메뉴얼](./BakeLab.pdf)
 - [GitHub Repository](https://github.com/BlueDestinyUnit/BakeLab)
