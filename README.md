@@ -7,9 +7,9 @@ HTML, CSS, JavaScript, JAVA, MYSQL, Spring boot, Mybatis, JSP
 Eclipse, InteliJ, Visual Studio Code
 
 ### Projects
-sudoku :  -> HTML, CSS, JavaScript
+sudoku :  [repository](https://github.com/BlueDestinyUnit/BlueDestinyUnit/sudoku)
 
-bakelap : http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080 -> Spring boot, Mybatis etc..
+bakelap : [URL](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
 
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
