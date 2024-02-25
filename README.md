@@ -9,9 +9,11 @@ Eclipse, InteliJ, Visual Studio Code
 ### Projects
 sudoku :  [Repository](https://github.com/BlueDestinyUnit/sudoku)
 
+
 BakeLap : [사이트](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
 [메뉴얼](./BakeLab.pdf)
 [Repositroy](https://github.com/BlueDestinyUnit/BakeLap)
+DB 관계도, 프로젝트 기본틀 제작, 상품 등록, 장바구니, 결제,  검색을 담당했습니다.
 
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
