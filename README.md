@@ -7,9 +7,9 @@ HTML, CSS, JavaScript, JAVA, MYSQL, Spring boot, Mybatis, JSP
 Eclipse, InteliJ, Visual Studio Code
 
 ### Projects
-sudoku :  [Repository](https://github.com/BlueDestinyUnit/sudoku)
+[sudoku](https://github.com/BlueDestinyUnit/sudoku)
 
-
+## 빵 쇼핑몰 프로젝트
 BakeLab : [사이트](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
 [메뉴얼](./BakeLab.pdf)
 [Repositroy](https://github.com/BlueDestinyUnit/BakeLab)
