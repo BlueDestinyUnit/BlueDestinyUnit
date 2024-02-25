@@ -10,6 +10,7 @@ Eclipse, InteliJ, Visual Studio Code
 sudoku :  [Repository](https://github.com/BlueDestinyUnit/sudoku)
 
 BakeLap : [사이트](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
+[메뉴얼](./BakeLap.pdf)
 [Repositroy](https://github.com/BlueDestinyUnit/BakeLap)
 
 <!--
