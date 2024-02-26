@@ -20,6 +20,7 @@
 - Visual Studio Code
 
 ## 프로젝트
+***
 ### 개인 프로젝트
 #### Sudoku 게임
 - [Sudoku Repository](https://github.com/BlueDestinyUnit/sudoku)
