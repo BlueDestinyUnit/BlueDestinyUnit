@@ -20,11 +20,12 @@
 - Visual Studio Code
 
 ## 프로젝트
-
-### - Sudoku 게임 프로젝트
+## 개인 프로젝트
+### - Sudoku 게임
 - [Sudoku Repository](https://github.com/BlueDestinyUnit/sudoku)
 
-### - 빵 쇼핑몰 프로젝트 - BakeLab (팀 프로젝트)
+## 팀 프로젝트
+### - 빵 쇼핑몰
 - [BakeLab Repository](https://github.com/BlueDestinyUnit/BakeLab)
 
 
