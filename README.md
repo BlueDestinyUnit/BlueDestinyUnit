@@ -2,6 +2,7 @@
 
 ## Contact Information
 - Email: whtjdghks03@naver.com
+- github: https://github.com/BlueDestinyUnit
 
 ## 기술 스택
 - HTML
@@ -22,12 +23,11 @@
 
 ### - Sudoku 게임 프로젝트
 - [GitHub Repository](https://github.com/BlueDestinyUnit/sudoku)
-#### 사용한 기술 -> HTML, CSS, JS
 
 ### - 빵 쇼핑몰 프로젝트 - BakeLab (팀 프로젝트)
 - [GitHub Repository](https://github.com/BlueDestinyUnit/BakeLab)
 
-#### 사용한 기술 -> HTML, CSS, JavaScript, JAVA, MyBatis, Spring Boot
+
 
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
