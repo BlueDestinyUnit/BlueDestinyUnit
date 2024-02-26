@@ -25,20 +25,9 @@
 #### 사용한 기술 -> HTML, CSS, JS
 
 ### - 빵 쇼핑몰 프로젝트 - BakeLab (팀 프로젝트)
-- [사이트 바로가기](http://ec2-3-39-22-132.ap-northeast-2.compute.amazonaws.com:8080)
-- [메뉴얼](./BakeLab.pdf)
 - [GitHub Repository](https://github.com/BlueDestinyUnit/BakeLab)
 
 #### 사용한 기술 -> HTML, CSS, JavaScript, JAVA, MyBatis, Spring Boot
-
-#### 내가 수행한 역할
-- DB 관계도 설계
-- 프로젝트 기본 틀 제작
-- 상품 등록 기능 구현
-- 장바구니 기능 구현
-- 결제 기능 구현
-- 검색 기능 구현
-
 
 <!--
 **BlueDestinyUnit/BlueDestinyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
