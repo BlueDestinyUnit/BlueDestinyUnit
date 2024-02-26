@@ -22,10 +22,10 @@
 ## 프로젝트
 
 ### - Sudoku 게임 프로젝트
-- [GitHub Repository](https://github.com/BlueDestinyUnit/sudoku)
+- [Sudoku Repository](https://github.com/BlueDestinyUnit/sudoku)
 
 ### - 빵 쇼핑몰 프로젝트 - BakeLab (팀 프로젝트)
-- [GitHub Repository](https://github.com/BlueDestinyUnit/BakeLab)
+- [BakeLab Repository](https://github.com/BlueDestinyUnit/BakeLab)
 
 
 
