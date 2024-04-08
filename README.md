@@ -18,7 +18,6 @@
 ## 개발 도구
 - Eclipse
 - IntelliJ
-- Visual Studio Code
 
 ## 프로젝트
 ***
