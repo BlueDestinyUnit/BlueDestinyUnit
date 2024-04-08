@@ -12,6 +12,7 @@
 - MYSQL
 - Spring Boot
 - MyBatis
+- JPA
 - JSP
 
 ## 개발 도구
