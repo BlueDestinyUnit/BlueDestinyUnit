@@ -11,7 +11,7 @@
 ### Back-end
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-### Templete
+### Template
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 
 
@@ -21,10 +21,11 @@
 ### AWS
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 
-### 형상관리
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+
 
 ## 개발 도구
+<img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+#2C2255
 - Eclipse
 - IntelliJ
 
