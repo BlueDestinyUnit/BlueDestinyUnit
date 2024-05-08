@@ -24,7 +24,7 @@
 
 
 ## 개발 도구
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 #2C2255
 - Eclipse
 - IntelliJ
