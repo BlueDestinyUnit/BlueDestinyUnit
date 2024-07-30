@@ -7,7 +7,7 @@
 ## 교육
 ***
 #### 2023.5 ~ 2023.10 (IT코리아대구) 백엔드
-#### 2023.12.05 ~ 2024.8.1 (스마트웹콘텐츠개발) 스마트웹 응용 프로그래밍 개발자 양성 과정A - 수료중
+#### 2023.12.05 ~ 2024.8.2 (스마트웹콘텐츠개발) 스마트웹 응용 프로그래밍 개발자 양성 과정A - 수료중
 
 
 
@@ -42,9 +42,11 @@
 
 ### 팀 프로젝트
 #### 빵 쇼핑몰 (BakeLab)
+- [http://bakelab.jshlab.store](http://bakelab.jshlab.store)
 - [BakeLab Repository](https://github.com/BlueDestinyUnit/BakeLab)
 
-#### DCS (진행중)
+#### DCS (Data Cleaning System)
+- [http://dcs.jshlab.store](http://dcs.jshlab.store)
 - [DCS Repository](https://github.com/BlueDestinyUnit/DCS)  
 
 
