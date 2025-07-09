@@ -42,11 +42,11 @@
 
 ### 팀 프로젝트
 #### 빵 쇼핑몰 (BakeLab)
-- [http://bakelab.jshlab.store](http://bakelab.jshlab.shop)
+- [http://bakelab.jshlab.shop](http://bakelab.jshlab.shop)
 - [BakeLab Repository](https://github.com/BlueDestinyUnit/BakeLab)
 
 #### DCS (Data Cleaning System)
-- [http://dcs.jshlab.store](http://dcs.jshlab.shop)
+- [http://dcs.jshlab.shop](http://dcs.jshlab.shop)
 - [DCS Repository](https://github.com/BlueDestinyUnit/DCS)  
 
 
